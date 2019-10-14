@@ -1,0 +1,10 @@
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\bin\Release\Gmail_latter.exe.config
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\bin\Release\Gmail_latter.exe
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\bin\Release\Gmail_latter.pdb
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\obj\Release\Gmail_latter.csprojAssemblyReference.cache
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\obj\Release\Gmail_latter.Form1.resources
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\obj\Release\Gmail_latter.Properties.Resources.resources
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\obj\Release\Gmail_latter.csproj.GenerateResource.cache
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\obj\Release\Gmail_latter.csproj.CoreCompileInputs.cache
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\obj\Release\Gmail_latter.exe
+G:\WinFormApp (Сентябрь)\Gmail\Gmail_latter\obj\Release\Gmail_latter.pdb
